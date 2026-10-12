@@ -1,0 +1,3 @@
+# Optional: enables moving deleted files to the recycle bin / trash.
+# Without it the app still works, but deletes files permanently.
+send2trash>=1.8
